@@ -1,0 +1,31 @@
+{
+  "name": "nodejs_blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManhTTFU/paparazi.git"
+  },
+  "keywords": [
+    "nodejs",
+    "blog",
+    "manhtran"
+  ],
+  "author": "manhtran97",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManhTTFU/paparazi/issues"
+  },
+  "homepage": "https://github.com/ManhTTFU/paparazi#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
